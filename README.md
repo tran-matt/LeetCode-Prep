@@ -1,2 +1,2 @@
 # LeetCode-Prep
-Dedicated to recording my LeetCode prep
+Daily LeetCode practice for interview preparation
