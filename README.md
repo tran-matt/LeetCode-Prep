@@ -1,7 +1,7 @@
 # LeetCode Prep Repository
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-green)
-![Commit Streak](https://img.shields.io/badge/Commit%20Streak-1%20days-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-green)
+![Commit Streak](https://img.shields.io/badge/Commit%20Streak-2%20days-blue)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 This repository is dedicated to my LeetCode practice and preparation for coding interviews, specifically focused on Python. It serves as a record of my daily problem-solving progress, with organized solutions by topic and difficulty level.
