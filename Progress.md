@@ -1,2 +1,5 @@
-| Date       | Problem               | Topic       | Difficulty | Solution Link                                   |
-|------------|-----------------------|-------------|------------|-------------------------------------------------|
+| Date       | Problem                           | Topic                | Difficulty | Solution Link                                                                                     |
+|------------|-----------------------------------|----------------------|------------|---------------------------------------------------------------------------------------------------|
+| 2024-11-13 | Merge Sorted Array                | Array, Two Pointers  | Easy       | [Link to Solution](https://github.com/tran-matt/LeetCode-Prep/blob/main/Arrays/Easy/Merge_Sorted_Array.py)                |
+| 2024-11-14 | Remove Element                    | Array, In-Place      | Easy       | [Link to Solution](https://github.com/tran-matt/LeetCode-Prep/blob/main/Arrays/Easy/Remove_Element.py)                    |
+| 2024-11-15 | Remove Duplicates from Sorted Array | Array, Two Pointers | Easy       | [Link to Solution](https://github.com/tran-matt/LeetCode-Prep/blob/main/Arrays/Easy/Remove_Duplicates_Sorted_Array.py) |
